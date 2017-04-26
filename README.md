@@ -1,2 +1,4 @@
 # hello-world
-This is first step
+
+Hi,this is my first step in git!
+I'll learn more and more and more here!
